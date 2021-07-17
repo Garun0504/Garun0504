@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Garun0504 and working as Technical Engineer
+- 👋 Hi, I’m @Garun0504 working as Technical Engineer
 - 👀 I’m interested in learning Pythong and Powershell for Devops purpose
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on starting level project that could help with learning
